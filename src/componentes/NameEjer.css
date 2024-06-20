@@ -1,0 +1,19 @@
+.ContenedorDescripcion{
+    width: 148px;
+    height: 53 px;
+    top: 15 px;
+    left: 91px;
+    gap: 2px;
+    text-align: left;
+    
+}
+.NombreEjer{
+    font-size: 18px;
+    color: #FFFFFF;
+    text-align: left;
+}
+.Tiempo{
+    font-size: 14px;
+    color: #C4C4CC;
+    text-align: left;
+}
