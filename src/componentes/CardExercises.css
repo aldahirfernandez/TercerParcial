@@ -1,0 +1,31 @@
+.ContenedorTarjeta{
+    width: 364px;
+    height: 83px;
+    background-color: #29292E;
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    justify-content: center; 
+    align-items: center; 
+}
+.ContenedorDes{
+    display: flex;
+    left: 91px;
+}
+.ImagenEjer{
+    width: 67px;
+    height: 67px;
+    top: 8px;
+    overflow: hidden;
+    left: 8px;
+    border-radius: 6px;
+    margin: 15px;
+}
+.ImgFlecha{
+    width: 9px;
+    height: 16.5px;
+    top: 3.75px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+}

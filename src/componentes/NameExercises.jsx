@@ -1,4 +1,4 @@
-import "./NameEjer.css"
+import "./NameExercises.css"
 
 function NameEjer(){
     return (

@@ -1,10 +1,17 @@
-import React from 'react'
-import "./Plantilla"
+import "./Plantilla.css"
+import CardExercises from "./CardExercises"
+import Titulo from "./Titulo"
 
-const Plantilla = () => {
-  return (
-    <div>Plantilla</div>
-  )
+function Plantilla (){
+    return (
+        <>
+        <Titulo/>
+        <CardExercises/>
+        <CardExercises/>
+        <CardExercises/>
+        <CardExercises/>
+        </>
+
+    )
 }
-
-export default Plantilla
+export default Plantilla;
